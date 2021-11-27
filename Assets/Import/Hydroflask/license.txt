@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hydroflask
+* source:	https://sketchfab.com/3d-models/hydroflask-487fdbc316324db08b61bb962b6c6838
+* author:	Kastle (https://sketchfab.com/kastle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hydroflask" (https://sketchfab.com/3d-models/hydroflask-487fdbc316324db08b61bb962b6c6838) by Kastle (https://sketchfab.com/kastle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

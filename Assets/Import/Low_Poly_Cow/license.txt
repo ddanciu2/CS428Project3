@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Cow
+* source:	https://sketchfab.com/3d-models/low-poly-cow-df042eca21c946a89b8df54310f28c59
+* author:	tsutomu.saito (https://sketchfab.com/tsutomu.saito)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Cow" (https://sketchfab.com/3d-models/low-poly-cow-df042eca21c946a89b8df54310f28c59) by tsutomu.saito (https://sketchfab.com/tsutomu.saito) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Assignment 8: Plant
+* source:	https://sketchfab.com/3d-models/assignment-8-plant-4e4e9400cb95484e874daf37fa1a3f18
+* author:	Teague McGinn (https://sketchfab.com/mcginn3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Assignment 8: Plant" (https://sketchfab.com/3d-models/assignment-8-plant-4e4e9400cb95484e874daf37fa1a3f18) by Teague McGinn (https://sketchfab.com/mcginn3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
