@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Dancing on the Ceiling.unity
-    guid: 4293d5ccecdb249a4b5a20204eceaff8
-  - enabled: 1
-    path: Assets/Scenes/Land of the Giants.unity
-    guid: ccc2df86a038abc418a42deff39b6e31
-  - enabled: 1
     path: Assets/Scenes/Original World.unity
     guid: 0a7970bc7c1089146a06fd151a5216a0
   - enabled: 1
     path: Assets/Scenes/Mego Playset.unity
     guid: 89baf1acdc3014d4e958df4770c4de17
+  - enabled: 1
+    path: Assets/Scenes/Land of the Giants.unity
+    guid: ccc2df86a038abc418a42deff39b6e31
+  - enabled: 1
+    path: Assets/Scenes/Dancing on the Ceiling.unity
+    guid: 4293d5ccecdb249a4b5a20204eceaff8
   m_configObjects: {}
