@@ -68,9 +68,9 @@ created and unzip the file there.
     * 1 key to control player, 2 key to control left hand, 3 key to control right hand
     * Left click to grab objects (Make sure to be controlling player then)
     * Left shift to bring up menu to switch worlds
-        ** Hover over the square with the pointer by pressing/holding E and let go of E after your pointer is hovering over the square/world you want to pick.
+        * Hover over the square with the pointer by pressing/holding E and let go of E after your pointer is hovering over the square/world you want to pick.
     * Left control ("CTRL") to bring up menu to do 90 degree increments. (ONLY CAN BE ACCESSED IN DANCING ON CEILING VERSION)
-        ** Hover over the square with the pointer by pressing/holding E and let go of E after your pointer is hovering over the 90 degree direction you want to pick.
+        * Hover over the square with the pointer by pressing/holding E and let go of E after your pointer is hovering over the 90 degree direction you want to pick.
 
 * If you wish to run the project off your headset, turn on the "CameraRigs.UnityXR" and turn off "CameraRigs.SpatialSimulator" for each scene. This can be done by clicking each scene within the Scenes folder (Assets > Scenes). This should be done before you build the APK file. Make sure you are on the Android platform starting by going to File > Build Settings > Click on "Android" > Click on "Switch Platform" button. Use the following controls:
     * Look around with head movement
@@ -78,9 +78,9 @@ created and unzip the file there.
     * Interact with right joystick click
     * Side triggers to grab objects
     * X button on left controller to bring up menu to switch worlds
-        ** Hover over the square with the right controller pointer and do a right joystick click to pick that world.
+        * Hover over the square with the right controller pointer and do a right joystick click to pick that world.
     * A button on right controller to bring up menu to do 90 degree increments. (ONLY CAN BE ACCESSED IN DANCING ON CEILING VERSION)
-        ** Hover over the square with the right controller pointer and do a right joystick click to do a 90 degree rotation in that direction.
+        * Hover over the square with the right controller pointer and do a right joystick click to do a 90 degree rotation in that direction.
 
 ![Oculus Driver](/DocumentPictures/Unity_XR.PNG)
 * Unity screenshot showing where to uncheck/check UnityXR or SpatialSimulator
