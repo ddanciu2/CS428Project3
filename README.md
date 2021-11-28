@@ -60,7 +60,7 @@ created and unzip the file there.
 6. Go to Unity Hub, click add and select the CS428Project3 folder that you cloned
 
 7. Run Project Method:
-* If you wish to run the project off your laptop/PC, turn on the "CameraRigs.SpatialSimulator" and turn off "CameraRigs.UnityXR" for each scene. This can be done by clicking each scene within the Scenes folder (Assets > Scenes). Click run/play ontop of the Unity. Make sure you are on the PC platform starting by going to File > Build Settings > Click on "PC" > Click on "Switch Platform" button. Use the following controls:
+* If you wish to run the project on your laptop/PC, turn on the "CameraRigs.SpatialSimulator" and turn off "CameraRigs.UnityXR" for each scene. This can be done by clicking each scene within the Scenes folder (Assets > Scenes). Click run/play ontop of the Unity. Make sure you are on the PC platform starting by going to File > Build Settings > Click on "PC" > Click on "Switch Platform" button. Use the following controls:
     * Mouse to look around
     * Move around with WASD
     * Q key to teleport
