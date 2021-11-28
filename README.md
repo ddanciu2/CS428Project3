@@ -1,7 +1,7 @@
 # Project 3 - Perspective
 
 ## NOTE - THIS PROJECT INTENDED USE IS FOR VR (OCULUS/OCULUS QUEST 2, BUT CAN BE USED IN PC TOO)
-This project's intended use is VR on oculus headsets. You will be able to do different things including grabbing and picking up models, hitting models against each other, listening to different sounds models might have, switching between different variations of the project through a menu system, and exploring new models/areas that each variation of the project will provide. All of this was written in Unity with the help of creating models in Blender. (NOTE - Check below for more instructions on each world and how to traverse them with a description. Their will also be more specific explaination of the controls below as well)
+This project's intended use is VR on oculus headsets. You will be able to do different things including grabbing and picking up models, hitting models against each other, listening to different sounds models might have, switching between different variations of the project through a menu system, and exploring new models/areas that each variation of the project will provide. All of this was written in Unity with the help of creating models in Blender. (NOTE - Check below for more instructions on each world and how to traverse them with a description. There will also be a more specific explanation of the controls below as well)
 
 Website Documentation for Projects:
 https://sites.google.com/uic.edu/project-3/home?authuser=4
